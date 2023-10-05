@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "logistics-challenge": "file:../Logistics-Challenge"
+  },
+  "type": "module"
+}
